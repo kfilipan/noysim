@@ -1,0 +1,9 @@
+# Auto CLRF endings.
+* text=auto
+
+# Text files.
+*.py text
+*.c text
+*.h text
+*.bat eol=crlf
+*.sh eol=lf
