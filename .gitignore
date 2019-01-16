@@ -1,0 +1,8 @@
+# Directories
+_TEMP/
+
+# Files
+*.pyc
+*.pyd
+*.so
+*.exe
